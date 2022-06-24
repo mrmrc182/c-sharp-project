@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKQHr9htzYeBTLzDYhDmzqwKZ0YQGoaNB8jaeT3LYwoVPYjDqRPfjmLoRsyQBOwzOqBjrnSrv89SfaZtdZQVHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carls\\OneDrive\\Desktop\\C-sharp-project\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carls\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\carls\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
