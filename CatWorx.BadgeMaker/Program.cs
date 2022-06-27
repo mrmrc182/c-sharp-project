@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 namespace CatWorx.BadgeMaker
 {
-
-    // Employee currentEmployee= new Employee("Matt", "Carlson", 123, "https://placekitten.com/300/300");
     class Program
     {
         static List<Employee> GetEmployees()
